@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RadioGroupAndSelect</string>
+    <string name="name1">checkBox</string>
+    <string name="name2">orderFood</string>
+
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="resultCheckBox">ResultCheckBox</string>
+    <string name="resultRadioButton">resultRadioButton</string>
+    <string name="food1">Milk</string>
+    <string name="food2">Water</string>
+</resources>
